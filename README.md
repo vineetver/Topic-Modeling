@@ -1,6 +1,6 @@
 The dataset is from [webrobots. io](https://webrobots.io/indiegogo-dataset/). The dataset contains data from all the projects hosted on the Indiegogo platform. 
 
-In this particular project, I implemented topic modelling on the project descriptions of all the projects hosted on Indiegogo. Topic modelling is used to cluster similar documents together. 
+In this particular project, I implemented topic modelling on the project descriptions of all the projects hosted on Indiegogo. Topic modeling is used to cluster similar documents together. 
 
 I used Latent Semantic Analysis (LSA) and  Latent Dirichlet Allocation (LDA) to cluster the project descriptions.   
 
