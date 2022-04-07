@@ -6,8 +6,6 @@ I used Latent Semantic Analysis (LSA) and  Latent Dirichlet Allocation (LDA) to 
 
 LSA is a statistical technique used to analyze relationships between documents and the terms they contain by producing a set of concepts related to the documents and terms. In contrast, LDA is a statistical technique used to automatically discover the topics represented in a collection of documents. 
 
-Each topic is a combination of keywords that best describe the documents under that topic.   
-
 ### Requirements 
 ```
 builtins,
