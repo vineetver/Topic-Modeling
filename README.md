@@ -8,10 +8,6 @@ LSA is a statistical technique used to analyze relationships between documents a
 
 ### Requirements 
 ```
-builtins,
-site,
-os,
-sys,
 pandas,
 numpy,
 matplotlib.pyplot,
@@ -26,3 +22,7 @@ The LDA and LSA models are in the `ip.ipynb` notebook.
 First, the data is loaded from the `/data` dictionary. Followed by these preprocessing steps:  - Tokenization - Lemmatization - Removal of stopwords - Removal of punctuations  
 
 After the preprocessing, LSA and LDA models are built and visualized using dendrograms.
+
+### View the code
+
+[NBviewer](https://nbviewer.org/github/vineetver/Indiegogo-Topic-Modelling/blob/main/tp.ipynb)
