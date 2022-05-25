@@ -8,7 +8,7 @@ LSA is a statistical technique used to analyze relationships between documents a
 
 ## Getting Started
 
-### Dependancies
+### Dependencies
 
 List of all the libraries you need to run the code.
 
